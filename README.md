@@ -43,6 +43,16 @@ This is a simple Bash script to monitor basic server performance stats on a Linu
 
 Feel free to modify the script or contribute improvements!
 
+## Community and Resources
+- **Project Origin**: This project is inspired by [https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats).
+- **Roadmap.sh**: The 6th most starred project on GitHub, visited by hundreds of thousands of developers monthly. Rank 6th out of 28M!  
+  - 337K GitHub Stars - [Star us on GitHub](https://github.com/kamranahmedse/roadmap.sh) to help us reach #1!  
+  - +90k users every month, +2.1M registered users - [Register yourself](https://roadmap.sh/register) to commit to your growth.  
+  - 40K Discord Members - [Join on Discord](https://discord.gg/roadmapsh).
+- **Additional Resources**:  
+  - Roadmaps, best practices, guides, videos, FAQs, and YouTube content by [@kamrify](https://twitter.com/kamrify).  
+  - [TheNewStack](https://thenewstack.io/): The top DevOps resource for Kubernetes, cloud-native computing, and large-scale development.
+
 ## About
 No description, website, or topics provided.
 
