@@ -7,16 +7,14 @@ This is a simple Bash script to monitor basic server performance stats on a Linu
 1. **Clone the Repository**
    - Clone this repository to your local machine using:
      ```bash
-     git clone <repository-url>
+     git clone https://github.com/DenisRuparel/Server-Performance-Stats---DevOps.git
      ```
-     Replace `<repository-url>` with the URL of this repository.
 
 2. **Navigate to the Project Directory**
    - Change to the project directory:
      ```bash
-     cd <repository-folder>
+     cd Server-Performance-Stats---DevOps
      ```
-     Replace `<repository-folder>` with the name of the cloned folder.
 
 3. **Make the Script Executable**
    - Give execute permissions to the script:
@@ -44,3 +42,15 @@ This is a simple Bash script to monitor basic server performance stats on a Linu
 - The output is simple and beginner-friendly, making it easy to understand server performance.
 
 Feel free to modify the script or contribute improvements!
+
+## About
+No description, website, or topics provided.
+
+## Releases
+No releases published
+
+## Packages
+No packages published
+
+## Footer
+© 2025 GitHub, Inc.
